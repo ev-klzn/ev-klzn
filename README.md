@@ -1,6 +1,6 @@
 ### Hi there 🤘
 
-### My name is Kaliuzhnyi Yevhen
+### My name is Kaliuzhnyi Yevhen!
 
 ### I am SEO Specialist and Web developer.
 
