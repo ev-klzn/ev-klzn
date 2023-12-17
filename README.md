@@ -2,7 +2,7 @@
 
 ### My name is Kaliuzhnyi Yevhen
 
-### I am SEO Specialist, Web developer.
+### I am SEO Specialist and Web developer.
 
 ### I work for the result. I meet the deadlines. Portfolio, LinkedIn, GitHub, Contacts.
 
