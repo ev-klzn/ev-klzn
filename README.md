@@ -6,4 +6,4 @@
 
 ### I work for the result. I meet the deadlines.
 
-### Web developer Technical Stack: HTML5, CSS3, SASS, SCSS, BEM, JavaScript, Git, GitHub, Bootstrap.
+### Web developer Technical Stack: HTML5, CSS3, SASS, SCSS, BEM, JavaScript, Git, GitHub.
