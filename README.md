@@ -1,14 +1,14 @@
 ### Hi there. My name is Yevhen. I am a Web Developer.
 
 ## Technical Stack:
- ✅ HTML5
- ✅ CSS3
- ✅ SASS (SCSS)
- ✅ BEM
- ✅ Figma
- ✅ JavaScript
- ✅ SEO-Based Website
- ✅ Git, GitHub
+- HTML5
+- CSS3
+- SASS (SCSS)
+- BEM
+- Figma
+- JavaScript
+- SEO-Based Website
+- Git, GitHub
 
 ## About Me:
 I work for the result. I meet the deadlines.
