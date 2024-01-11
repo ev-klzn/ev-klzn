@@ -1,9 +1,16 @@
-### Hi there 🤘
-
-### My name is Kaliuzhnyi Yevhen!
-
-### I am Web developer and SEO Specialist.
+### Hi there. My name is Yevhen. I am a Web Developer.
+### Technical Stack:
+### ✅ HTML5
+### ✅ CSS3
+### ✅ SASS (SCSS)
+### ✅ BEM
+### ✅ Figma
+### ✅ JavaScript
+### ✅ SEO-Based Website
+### ✅ Git, GitHub
 
 ### I work for the result. I meet the deadlines.
+### Love cycling and photography.
 
-### Web developer Technical Stack: HTML5, CSS3, SASS, SCSS, BEM, JavaScript, Git, GitHub.
+### Thanks & Regards,
+### Yevhen.
