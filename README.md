@@ -1,6 +1,6 @@
 ### Hi there. My name is Yevhen. I am a Web Developer.
 
-# Technical Stack:
+## Technical Stack:
 - ✅ HTML5
 - ✅ CSS3
 - ✅ SASS (SCSS)
@@ -10,9 +10,9 @@
 - ✅ SEO-Based Website
 - ✅ Git, GitHub
 
-# About Me:
+## About Me:
 I work for the result. I meet the deadlines.
 Love cycling and photography.
 
 ### Thanks & Regards,
-# Yevhen.
+### Yevhen.
