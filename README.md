@@ -2,7 +2,7 @@
 ## My name is Yevhen. I am a User-friendly Web Developer
 
 # 💫 About Me:
-## - 📫 Hire me: ev-klzn@gmail.com<br>- 🧐 I'm looking for a job in IT company<br>- 🤝 I work for the result. I meet the deadlines. <br>- ⚡  I Love cycling and photography.
+## - 📫 Hire me: ev-klzn@gmail.com<br>- 🧐 I'm looking for a job in IT company<br>- 🤝 I work for the result. I meet the deadlines <br>- ⚡  I Love cycling and photography
 
 # 💻 Tech Stack:
 <br>✅ HTML5
