@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there. My name is Yevhen. I am a Web Developer.<br><br>- 📫 How to reach me: ev-klzn@gmail.com<br>- 🧐 I'm looking for a job in IT company<br>- 🤝 I work for the result. I meet the deadlines. <br>- ⚡ I'm interested in Web development<br>-⚡  I Love cycling and photography.
 
-## Technical Stack:
+# Tech Stack:
 - HTML5
 - CSS3
 - SASS (SCSS)
