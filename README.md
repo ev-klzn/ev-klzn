@@ -1,4 +1,4 @@
-### Hi there. My name is Yevhen. I am a Web Developer.
+## Hi there. My name is Yevhen. I am a Web Developer.
 
 ## Technical Stack:
 - HTML5
