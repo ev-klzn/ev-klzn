@@ -12,6 +12,7 @@
 <br>✅ Figma
 <br>✅ JavaScript
 <br>✅ SEO-Based Website
+<br>✅ Basic SEO optimization as a gift
 <br>✅ Git, GitHub
 
 ## 🌐 Socials:
