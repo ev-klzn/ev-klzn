@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there. My name is Yevhen. I am a Web Developer.<br><br>- 📫 Hire me: ev-klzn@gmail.com<br>- 🧐 I'm looking for a job in IT company<br>- 🤝 I work for the result. I meet the deadlines. <br>- ⚡ I'm interested in Web development<br>- ⚡  I Love cycling and photography.
+Hi there. My name is Yevhen. I am a User-friendly Web Developer.<br><br>- 📫 Hire me: ev-klzn@gmail.com<br>- 🧐 I'm looking for a job in IT company<br>- 🤝 I work for the result. I meet the deadlines. <br>- ⚡ I'm interested in Web development<br>- ⚡  I Love cycling and photography.
 
 # 💻 Tech Stack:
 - HTML5
