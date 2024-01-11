@@ -5,14 +5,14 @@
 ## - 📫 Hire me: ev-klzn@gmail.com<br>- 🧐 I'm looking for a job in IT company<br>- 🤝 I work for the result. I meet the deadlines. <br>- ⚡  I Love cycling and photography.
 
 # 💻 Tech Stack:
-- HTML5
-- CSS3
-- SASS (SCSS)
-- BEM
-- Figma
-- JavaScript
-- SEO-Based Website
-- Git, GitHub
+<br>✅ HTML5
+<br>✅ CSS3
+<br>✅ SASS (SCSS)
+<br>✅ BEM
+<br>✅ Figma
+<br>✅ JavaScript
+<br>✅ SEO-Based Website
+<br>✅ Git, GitHub
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ev-klzn) 
