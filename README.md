@@ -1,4 +1,4 @@
-# Hi there. 
+# Hi there!
 ## My name is Yevhen. I am a User-friendly Web Developer
 
 # 💫 About Me:
