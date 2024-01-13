@@ -2,7 +2,7 @@
 ## My name is Yevhen. I am a User-friendly Web Developer
 
 # 💫 About Me:
-## - 🧐 I'm looking for a job in IT company<br>- ⚡ Basic SEO optimization as a gift<br> - 🤝 I work for the result. I meet the deadlines <br>- ⚡  I Love cycling and photography<br>- 📫 Hire me: ev-klzn@gmail.com
+## - 🧐 I'm looking for a job in IT company<br> - 🤝 I work for the result. I meet the deadlines <br>- ⚡  I Love cycling and photography<br>- 📫 Hire me: ev-klzn@gmail.com
 
 # 💻 Tech Stack:
 <br>✅ HTML5
@@ -11,8 +11,9 @@
 <br>✅ BEM
 <br>✅ Figma
 <br>✅ JavaScript
-<br>✅ SEO-Based Website
 <br>✅ Git, GitHub
+<br>✅ SEO-Based Website
+<br>✅ Basic SEO optimization as a gift<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ev-klzn) 
