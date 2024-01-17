@@ -1,5 +1,5 @@
-# Hi there!
-##  My name is Yevhen. I'm from Ukraine 🇺🇦. Help clients convert their Figma designs into Fully responsive web pages (Desktop and Mobile) while ensuring perfect quality! I take care of making the code reusable in the long term (BEM). Optimize website performance for faster loading times. Do basic SEO optimization for free!
+# Hi there! My name is Yevhen.
+### I'm from Ukraine 🇺🇦. Help clients convert their Figma designs into Fully responsive web pages (Desktop and Mobile) while ensuring perfect quality! I take care of making the code reusable in the long term (BEM). Optimize website performance for faster loading times. Do basic SEO optimization for free!
 
 # 💻 Tech Stack:
 
