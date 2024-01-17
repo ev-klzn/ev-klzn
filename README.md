@@ -13,7 +13,7 @@
 <br>✅ SEO optimization
 
 # 💫 I can help you:
-<br>✅ convert your static design to HTML5 | CSS3;
+<br>✅ convert your static Figma design to HTML5 | CSS3;
 <br>✅ develop a responsive and cross-browser compatible website;
 <br>✅ optimize website performance for faster loading times;
 <br>✅ I'll do basic SEO optimization as a gift!
