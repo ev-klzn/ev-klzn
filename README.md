@@ -1,22 +1,17 @@
 # Hi there!
-## My name is Yevhen. I am an SEO-Based Web Developer.
+##  My name is Yevhen. I'm from Ukraine 🇺🇦. Help clients convert their Figma designs into Fully responsive web pages (Desktop and Mobile) while ensuring perfect quality! I take care of making the code reusable in the long term (BEM). Optimize website performance for faster loading times. Do basic SEO optimization for free!
 
 # 💻 Tech Stack:
 
 <br>✅ HTML5
 <br>✅ CSS3
 <br>✅ SASS (SCSS)
+<br>✅Responsive web pages (Desktop and Mobile)
 <br>✅ BEM
 <br>✅ Figma
 <br>✅ JavaScript
 <br>✅ Git, GitHub
 <br>✅ SEO optimization
-
-# 💫 I can help you:
-<br>✅ convert your static Figma design to HTML5 | CSS3;
-<br>✅ develop a responsive and cross-browser compatible website;
-<br>✅ optimize website performance for faster loading times;
-<br>✅ Do basic SEO optimization as a gift!
 
 # 💫 Advantages of working with me:
 <br>👍 high-quality code with comments
