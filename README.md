@@ -28,10 +28,10 @@
 
 ## - 📫 Hire me: ev-klzn@gmail.com
 
-##Let's start!
+## Let's start!
 
-##Thanks & Regards,
-##Yevhen.
+## Thanks & Regards,
+## Yevhen.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ev-klzn) 
