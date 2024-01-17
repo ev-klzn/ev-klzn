@@ -18,11 +18,11 @@
 <br>👍 quick communication and turnarounds
 <br>👍 very reliable and very flexible
 <br>👍 you can contact me at any time
-<br>🤝 I work for the result. I meet the deadlines
+<br>👍 I work for the result. I meet the deadlines
 
 ## - 📫 Hire me: ev-klzn@gmail.com
 
-## Let's start!
+## 🤝 Let's start!
 
 <br>Thanks & Regards,
 <br>Yevhen.
