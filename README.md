@@ -16,7 +16,7 @@
 <br>✅ convert your static Figma design to HTML5 | CSS3;
 <br>✅ develop a responsive and cross-browser compatible website;
 <br>✅ optimize website performance for faster loading times;
-<br>✅ I'll do basic SEO optimization as a gift!
+<br>✅ Do basic SEO optimization as a gift!
 
 # 💫 Advantages of working with me:
 <br>👍 high-quality code with comments
