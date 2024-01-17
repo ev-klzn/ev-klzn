@@ -24,7 +24,6 @@
 <br>👍 very reliable and very flexible
 <br>👍 you can contact me at any time
 <br>🤝 I work for the result. I meet the deadlines
-<br>⚡ love cycling and photography
 
 ## - 📫 Hire me: ev-klzn@gmail.com
 
