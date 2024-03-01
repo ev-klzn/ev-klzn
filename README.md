@@ -3,15 +3,27 @@
 
 # 💻 Tech Stack:
 <br>✅ HTML5
+<br>✅ HTML5
 <br>✅ CSS3
 <br>✅ SASS (SCSS)
-<br>✅Responsive web pages (Desktop and Mobile)
-<br>✅ BEM
-<br>✅ Figma
+<br>✅ Responsive web pages (desktop, tablet, mobile)
+<br>✅ Clean code, (no frameworks)
+<br>✅ UI Animation
+<br>✅ BEM methodology
 <br>✅ JavaScript
 <br>✅ WordPress Migration
+<br>✅ Figma
 <br>✅ Git, GitHub
+
+<br>✅ SEO audit
+<br>✅ Screaming Frog SEO Spider
+<br>✅ Technical SEO
+<br>✅ Ahrefs
 <br>✅ SEO optimization
+<br>✅ ChatGPT
+<br>✅ SEO Writing
+<br>✅ Google Search Console
+<br>✅ Google Analytics
 
 # 💫 Advantages of working with me:
 <br>👍 high-quality code with comments
