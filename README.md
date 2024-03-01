@@ -9,6 +9,7 @@
 <br>✅ BEM
 <br>✅ Figma
 <br>✅ JavaScript
+<br>✅ WordPress Migration
 <br>✅ Git, GitHub
 <br>✅ SEO optimization
 
