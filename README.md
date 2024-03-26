@@ -8,7 +8,8 @@
 <br>✅ SASS (SCSS)
 <br>✅ Responsive web pages (desktop, tablet, mobile)
 <br>✅ Clean code, (no frameworks)
-<br>✅ UI Animation
+<br>✅ UI Animation 
+<br>✅ Parallax
 <br>✅ BEM methodology
 <br>✅ JavaScript
 <br>✅ WordPress Migration
