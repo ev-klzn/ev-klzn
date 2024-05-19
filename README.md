@@ -9,7 +9,7 @@
 <br>✅ Responsive web pages (desktop, tablet, mobile)
 <br>✅ Clean code, (no frameworks)
 <br>✅ UI Animation 
-<br>✅ Parallax
+<br>✅ Parallax Scrolling
 <br>✅ BEM methodology
 <br>✅ JavaScript
 <br>✅ WordPress Migration
