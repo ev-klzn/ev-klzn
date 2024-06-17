@@ -33,7 +33,7 @@
 <br>👍 you can contact me at any time
 <br>👍 I work for the result. I meet the deadlines
 
-## - 📫 Hire me: ev-klzn@gmail.com
+## - 📫 Hire me: https://ev-klzn.com/
 
 ## 🤝 Let's start!
 
