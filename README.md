@@ -33,9 +33,7 @@
 <br>👍 you can contact me at any time
 <br>👍 I work for the result. I meet the deadlines
 
-## - 📫 Hire me: https://ev-klzn.com/
-
-## 🤝 Let's start!
+## - 🤝 Hire me: https://ev-klzn.com/
 
 <br>Thanks & Regards,
 <br>Yevhen.
