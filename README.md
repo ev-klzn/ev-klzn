@@ -1,20 +1,29 @@
 ## Hi there! My name is Yevhen.
-### I'm an SEO-Based Web Developer from Ukraine 🇺🇦. Help clients convert their Figma designs into Fully responsive web pages (Desktop and Mobile) while ensuring perfect quality! I take care of making the code reusable in the long term (BEM). Optimize website performance for faster loading times. The team has a web designer, you can order web design and web development. Do basic SEO optimization for free!
+### I'm an SEO-Based Web Developer from Ukraine 🇺🇦. Help clients convert their Figma designs into fully responsive web pages (desktop, tablet, mobile) while ensuring perfect quality! I make the code reusable in the long term (BEM methodology).
+### Our web designer and developer place a lot of emphasis on the visual appearance of the web product while maintaining productivity. Creating amazing sites that are responsive and search engine-friendly is made possible by the studio's approach.
+### Our customers can easily find information and improve their conversion rate, which leads to their growth and development as a result.
+### Basic SEO optimization for free!
 
 # 💻 Tech Stack:
 
+<br>✅ Web Design
+<br>✅ UX & UI Design
+<br>✅ Logo Design
+<br>✅ Design Mockup
+<br>✅ Figma
+<br>✅ Web Development
+<br>✅ Front-End Development
 <br>✅ HTML5
 <br>✅ CSS3
 <br>✅ SASS (SCSS)
-<br>✅ Responsive web pages (desktop, tablet, mobile)
-<br>✅ Clean code, (no frameworks)
-<br>✅ UI Animation 
-<br>✅ Parallax Scrolling
-<br>✅ BEM methodology
 <br>✅ JavaScript
-<br>✅ WordPress Migration
-<br>✅ Figma
-<br>✅ Git, GitHub
+<br>✅ Responsive web pages (desktop, tablet, mobile)
+<br>✅ Clean code (no frameworks)
+<br>✅ UI Animations
+<br>✅ Parallax Scrolling
+<br>✅ BEM
+<br>✅ WordPress
+<br>✅ GitHub
 
 <br>✅ SEO audit
 <br>✅ Screaming Frog SEO Spider
@@ -33,7 +42,7 @@
 <br>👍 you can contact me at any time
 <br>👍 I work for the result. I meet the deadlines
 
-## 🤝 Hire me: https://ev-klzn.com/
+## 🤝 Let's get started! https://ev-klzn.com/
 
 <br>Thanks & Regards,
 <br>Yevhen.
