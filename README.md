@@ -6,12 +6,6 @@
 
 # 💻 Tech Stack:
 
-<br>✅ Web Design
-<br>✅ UX & UI Design
-<br>✅ Logo Design
-<br>✅ Design Mockup
-<br>✅ Figma
-
 <br>✅ Web Development
 <br>✅ Front-End Development
 <br>✅ HTML5
