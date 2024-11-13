@@ -39,9 +39,6 @@
 
 ## 🤝 Let's get started! https://ev-klzn.com/
 
-<br>Thanks & Regards,
-<br>Yevhen.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ev-klzn) 
 # 📊 GitHub Stats:
