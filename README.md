@@ -1,8 +1,13 @@
-## Hi there! My name is Yevhen.
-### I'm an SEO-Based Web Developer from Ukraine 🇺🇦. Help clients convert their Figma designs into fully responsive web pages (desktop, tablet, mobile) while ensuring perfect quality! I make the code reusable in the long term (BEM methodology).
-### I place a lot of emphasis on the visual appearance of the web product while maintaining productivity. Creating amazing sites that are responsive and search engine-friendly is made possible by my approach.
-### My customers can easily surf and improve their conversion rate, which leads to their growth and development as a result.
-### Basic SEO optimization for free!
+### My name is Yevhen, and I am an experienced SEO-based Web Developer. I specialize in developing fully responsive web pages that perform seamlessly across all devices—desktop, tablet, and mobile. By employing the BEM methodology, I ensure my code is clean, reusable, and built to last.
+
+### I take pride in creating visually stunning, functional websites that not only captivate users but also drive business success. With a strong focus on collaboration, I work closely with clients to understand their vision and bring it to life, blending design aesthetics with robust development practices. Every site I build is optimized for search engines, improving visibility and conversion rates to foster business growth. My workflow prioritizes trust, open communication, and meeting deadlines, enabling me to deliver results that align with your business goals and exceed expectations.
+
+### I offer basic SEO optimization as a free service to ensure your web presence gets off to the best possible start.
+
+### If you’re looking for a partner to help elevate your digital presence, let’s connect. Together, we can create a website that not only stands out visually but also supports your long-term growth.
+
+### Looking forward to collaborating with you,
+### Yevhen
 
 # 💻 Tech Stack:
 
