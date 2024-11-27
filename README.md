@@ -9,6 +9,7 @@
 
 ### Looking forward to collaborating with you,
 ### Yevhen
+## https://webintersol.com/
 
 # 💻 Tech Stack:
 
@@ -35,15 +36,6 @@
 <br>✅ SEO Writing
 <br>✅ Google Search Console
 <br>✅ Google Analytics
-
-# 💫 Advantages of working with me:
-<br>👍 high-quality code with comments
-<br>👍 quick communication and turnarounds
-<br>👍 very reliable and very flexible
-<br>👍 you can contact me at any time
-<br>👍 I work for the result. I meet the deadlines
-
-## 🤝 Let's get started! https://webintersol.com/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ev-klzn) 
