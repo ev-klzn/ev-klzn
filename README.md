@@ -14,38 +14,9 @@ HTML (HTML5), CSS (CSS3), JavaScript, SASS (SCSS), BEM, WordPress, PHP, Google S
 - Reliable & Deadline-Oriented;
 - Detail-Focused & Results-Driven.
 
-### Looking forward to collaborating with you,
+### Cheers,
 ### Yevhen
-## https://webintersol.com/
 
-# 💻 Tech Stack:
-
-<br>✅ Web Development
-<br>✅ Front-End Development
-<br>✅ HTML5
-<br>✅ CSS3
-<br>✅ SASS (SCSS)
-<br>✅ JavaScript
-<br>✅ Responsive web pages (desktop, tablet, mobile)
-<br>✅ Clean code (no frameworks)
-<br>✅ UI Animations
-<br>✅ Parallax Scrolling
-<br>✅ BEM
-<br>✅ WordPress
-<br>✅ GitHub
-
-<br>✅ SEO audit
-<br>✅ Screaming Frog SEO Spider
-<br>✅ Technical SEO
-<br>✅ Ahrefs
-<br>✅ SEO optimization
-<br>✅ ChatGPT
-<br>✅ SEO Writing
-<br>✅ Google Search Console
-<br>✅ Google Analytics
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ev-klzn) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ev-klzn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ev-klzn&theme=dark&hide_border=false)<br/>
