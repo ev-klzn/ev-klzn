@@ -13,8 +13,8 @@ HTML (HTML5), CSS (CSS3), JavaScript, SASS (SCSS), BEM, WordPress, PHP, Google S
 - Reliable & Deadline-Oriented;
 - Detail-Focused & Results-Driven.
 
-### Cheers,
-### Yevhen
+#### Cheers,
+#### Yevhen
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ev-klzn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
