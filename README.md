@@ -1,4 +1,3 @@
-##
 ### Hello! My name is Yevhen.More than 3 years of experience in web development. I craft high-performance, visually stunning, and user-friendly websites. I aim to create responsive websites that look great on any device and drive sales.
 
 ### 🔥 What I Do Best:
